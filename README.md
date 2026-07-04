@@ -29,26 +29,17 @@ npm run dev
 
 ## Folder Structure
 
-src/
-├── assets/
-│ └── images/
-│
-├── components/
-│
-├── pages/
-│
-├── context/
-│
-├── layouts/
-│
-├── routes/
-│
-├── data/
-│
-├── utils/
-│
-├── styles/
-│
+src
+├── assets
+│   └── images
+├── components
+├── pages
+├── context
+├── layouts
+├── routes
+├── data
+├── utils
+├── styles
 └── App.jsx
 
 ## Future Improvements
@@ -70,7 +61,11 @@ src/
 
 ### CourseDetails
 
-![CourseDetails](./public/screenshots/CoursesDetails.png)
+![CourseDetails](./public/screenshots/CourseDetails.png)
+
+### Contact
+
+![Contact](./public/screenshots/Contact.png)
 
 ### Dashboard
 
