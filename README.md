@@ -29,18 +29,20 @@ npm run dev
 
 ## Folder Structure
 
-src
-├── assets
-│   └── images
-├── components
-├── pages
-├── context
-├── layouts
-├── routes
-├── data
-├── utils
-├── styles
+```
+src/
+├── assets/
+│   └── images/
+├── components/
+├── pages/
+├── context/
+├── layouts/
+├── routes/
+├── data/
+├── utils/
+├── styles/
 └── App.jsx
+```
 
 ## Future Improvements
 
