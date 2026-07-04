@@ -70,8 +70,8 @@ src/
 
 ### CourseDetails
 
-[CourseDetails](./public/screenshots/CoursesDetails.png)
+![CourseDetails](./public/screenshots/CoursesDetails.png)
 
 ### Dashboard
 
-[Dashboard](./public/screenshots/Dashboard.png)
+![Dashboard](./public/screenshots/Dashboard.png)
